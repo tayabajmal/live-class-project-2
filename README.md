@@ -17,3 +17,8 @@ I learnt a lot about how to position HTML elements on a webpage and how to use t
 ## Improvements
 ---
 Several improvements could be done to this project, like making the website responsive using media queries. At the time of completing the project, responsive webdesign had not been covered. Also, the heading could have been wrapped at a smaller width. Instaead it is going too wide.
+
+## Live link to this project
+---
+
+[This project is deployed on Netlify](https://tayab-ajmal-live-class-project-2.netlify.app)
