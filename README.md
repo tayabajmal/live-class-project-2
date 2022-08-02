@@ -1,4 +1,4 @@
-# The new restaurant around the corner
+# The new restaurant around the corner ![live-class-project-2](https://img.shields.io/badge/JS%20Bootcamp-live--class--project--2-red)
 ---
 Creator : Tayab Ajmal
 Date : 20th of July, 2022.
